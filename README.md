@@ -1,2 +1,2 @@
-# django-analytics
-Analytics section for ecommerce project
+# Django Analytics
+Analytics section for online electric store project
